@@ -3,6 +3,7 @@ import React, { Component } from 'react';
   import './App.css';
   import Header from './components/site/Header'
   import Footer from './components/site/Footer'
+  import FunctionalComponentDemo from './components/concepts/FunctionalComponentDemo.js';
   import Sidebar from './components/site/Sidebar'
   import {
     BrowserRouter as Router, Route
